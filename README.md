@@ -22,4 +22,27 @@ A Spring Boot + MySQL + Java-based backend system that helps users find the shor
 - Dijkstra's Algorithm (Custom Graph Logic)
 
 ## 📂 Folder Structure
+├── main
+│ ├── java
+│ │ └── com.example.metro
+│ │ ├── controller
+│ │ ├── service
+│ │ ├── graph
+│ │ └── model
+│ └── resources
+│ └── application.properties
+
+
+## 🧑‍💻 Getting Started
+
+
+# Clone this repository
+git clone https://github.com/Harikrishna1701/Hyderabad-metro-Station.git
+
+# Navigate into the directory
+cd Hyderabad-metro-Station
+
+# Run the Spring Boot app
+mvn spring-boot:run
+
 
